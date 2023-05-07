@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mg-lsj" alt="mg-lsj" /></a> </p>
 
 - 📫 How to reach me **lakshyajeetjalal@gmail.com**
-
+- 🌐 Website <a href ="https://mg-lsj.me/" target="blank">Here</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lakshyajeet_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakshyajeet_j" height="30" width="40" /></a>
